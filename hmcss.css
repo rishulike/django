@@ -1,0 +1,52 @@
+body
+{
+	margin: 25px;
+	padding: 50px;
+	background: #000;
+}
+h1
+{
+	align-content: center;
+	color:  red;
+}
+#alpha
+{
+	padding: 50px;
+	margin: 50px;
+	width: 100px;
+	height: 400px;
+	background-color: #03a9f4;
+}
+#beta
+{
+	padding: 50px;
+	margin: 50px;
+	width: 100px;
+
+	height: 400px;
+	background-color:#f441a5 ;
+}
+#gama
+{
+	padding: 50px;
+	margin: 50px;
+	width: 100px;
+	height: 400px;
+	background-color:#ffeb3b ;
+}
+#sin
+{
+	padding: 50px;
+	margin: 50px;
+	width: 100px;
+	height: 400px;
+	background-color:#DDA0DD ;
+}
+#cos
+{
+	padding: 50px;
+	margin: 50px;
+	width: 100px;
+	height: 400px;
+	background-color:#DB7093;
+}

@@ -1,0 +1,37 @@
+body
+{
+	padding: 0;
+	margin: 0;
+	background-color: #7FFFD4;
+}
+h1
+{
+	border:solid;
+}
+#kon
+{
+	background-color: yellow;
+}
+h2
+{
+	color: blue;
+}
+img
+{
+	border:solid;
+	height: 400px;
+	width: 800px;
+}
+footer
+{
+	border:dotted;
+}
+#yes
+{
+	background-color: yellow;
+}
+#and
+{
+	height: 200px;
+	width: 800px;
+}
