@@ -63,15 +63,3 @@ a:hover:before
 	animation: animate 8s linear infinite;
 
 }
-.signup-btn{
-	margin: 8px;
-	padding: 8px;
-	border: solid;
-	border-color: white;
-	border-radius: 15px;
-	background-color: black;
-	font-family: sans-serif;
-	font-size: 24px;
-	color: white;
-	
-}
